@@ -33,7 +33,7 @@ Install the Clock
 
 Clone the repository or download the package:
 
-git clone https://github.com/pandaprotest/flipping_clock.git
+git clone https://github.com/pandaprotest/flippingclock.git
 cd flipping_clock
 python3 setup.py install
 
